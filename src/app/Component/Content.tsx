@@ -174,7 +174,7 @@ const Content = () => {
         {/* cool line to seperate */}
 
         {/*Content div */}
-        <div className="h-full w-full overflow-hidden mt-5">
+        <div className="h-full w-full overflow-hidden mt-5 mb-20">
           {selected === "About me" && <AboutMe />}
           {selected === "TechStack" && <TechStack />}
           {selected === "Project" && <Projects />}
