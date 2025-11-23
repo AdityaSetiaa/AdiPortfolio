@@ -51,7 +51,7 @@ const Content = () => {
       </div>
       <div className="flex gap-4 h-full w-full flex-row py-10 px-7 lg:px-0">
         {/* hidden floating div */}
-        <div className="fixed inset-0 z-2 flex lg:hidden items-end justify-center mb-20 pointer-events-none">
+        <div className="fixed inset-0 z-2 flex lg:hidden items-end justify-center mb-7 pointer-events-none">
           <div className="flex items-center justify-center gap-4 border border-zinc-600 p-3 rounded-2xl backdrop-blur-sm w-auto h-auto pointer-events-auto">
             {mdTitle.map((title) => (
               <div
