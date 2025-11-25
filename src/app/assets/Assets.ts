@@ -122,7 +122,7 @@ const Projects: {id: number, name: string, about: string, image: StaticImageData
     status: "finished",
     id: 1,
     github: "https://github.com/AdityaSetiaa/Crywatch",
-    link:""
+    link:"https://crywatch.vercel.app/"
   },
   {
     name: "krel",
