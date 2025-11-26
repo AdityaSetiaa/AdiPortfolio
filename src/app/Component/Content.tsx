@@ -75,7 +75,7 @@ const Content = () => {
                   : "hover:text-zinc-500"
               }`}
             >
-              <a href="https://drive.google.com/file/d/13u_9QlGHXrS5h-jkOkbCYpFkOTbwrRkL/view?usp=drive_link"><File /></a>
+              <a href="https://drive.google.com/file/d/13u_9QlGHXrS5h-jkOkbCYpFkOTbwrRkL/view?usp=drivesdk"><File /></a>
             </div>
 
             <div className="min-h-12 border border-zinc-800 rounded-3xl -mx-2"></div>
